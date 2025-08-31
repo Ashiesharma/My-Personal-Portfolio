@@ -1,14 +1,14 @@
 # My-Personal-Portfolio
-<h1 align="center">Hi 👋, I'm Ashie Sharma</h1>
+<h1 align="center">Hi, I'm Ashie Sharma</h1>
 <h3 align="center">I'm Ashie Sharma, soon to be a computer science graduate (2024-2028), and eager to continue to explore the inspiring field of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiesharma&label=Profile%20views&color=0e75b6&style=flat" alt="ashiesharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiesharma" alt="ashiesharma" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- I'm currently learning **Frontend Development**
 
-- 📫 How to reach me **ashie.sharma1209@gmail.com**
+- How to reach me: **ashie.sharma1209@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
